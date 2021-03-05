@@ -6,6 +6,7 @@ body, html {
 	font-weight: 400;
 	width: 100% !important;
 	height: 100% !important;
+	margin-top: 63px;
 }
 h2, h3, h4 {
 	font-family: 'Raleway', sans-serif;
@@ -193,6 +194,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
+	margin-bottom: 50px;
 }
 .intro .overlay {
 	background: rgba(0,0,0,0.2);
@@ -224,13 +226,6 @@ header .intro-text {
 	text-align: center;
 }
 /* Features Section */
-
-#berita {
-
-	background: #f6f6f6;
-	padding: 10px;
-}
-
 #header .head {
 	background: #00aced;
 	width: 100%;
@@ -240,6 +235,23 @@ header .intro-text {
 	line-height: 70px;
 	color: white;
 }
+
+
+#berita img {
+	width: 210px;
+	height: 200px;
+	float: left;
+}
+
+
+/* #berita {
+
+	background: #f6f6f6;
+	/* padding: 10px;
+}
+
+
+
 
 
 
@@ -252,6 +264,10 @@ header .intro-text {
 
 }
 
+#berita h6 {
+	float: left;
+}
+
 #berita h4{
 	text-align: justify;
 
@@ -259,6 +275,10 @@ header .intro-text {
 
 #berita p{
 	text-align: justify;
+	font-size: 12px;
+	width: 210px;
+	height: 200px;
+	float: left;
 
 }
 
@@ -273,7 +293,7 @@ header .intro-text {
 	border-radius: 50%;
 	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
-}
+} */ */
 /* About Section */
 
 

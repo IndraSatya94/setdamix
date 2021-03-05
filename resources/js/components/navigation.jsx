@@ -35,6 +35,7 @@ export class Navigation extends Component {
               <li><NavLink to="/profilsetda">Profil Setda</NavLink> </li>
               <li><NavLink to="/pejabat">Pejabat</NavLink> </li>
               <li><NavLink to="contact-us">Contact Us</NavLink> </li>
+              <li><NavLink to="gallery">Gallery</NavLink> </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDton" data-bs-toggle="dropdown" aria-expanded="falsropdownMenuLink"  role="bute">
                   Profil SETDA

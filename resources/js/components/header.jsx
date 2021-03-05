@@ -24,7 +24,7 @@ export class Header extends Component {
             </div>
           </div>
         </div>
-        <div className="head">- Berita Terbaru -</div>
+        {/* <div className="head">- Berita Terbaru -</div> */}
         <Berita/>
       </header>
     );

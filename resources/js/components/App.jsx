@@ -9,6 +9,7 @@ import Pengumuman from './pengumuman';
 import Pejabat from './pejabat';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import ReactDOM from 'react-dom';
+import Gallery from './gallery';
 
 
 
@@ -24,6 +25,7 @@ function App() {
       <Route path="/pejabat"component={Pejabat}/>
       <Route path="/berita"component={Berita}/>
       <Route path="/pengumuman"component={Pengumuman}/>
+      <Route path="/gallery"component={Gallery}/>
 
       <Footer/>
       
